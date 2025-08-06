@@ -28,7 +28,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "LlamaFramework",
-            url: "https://github.com/ggml-org/llama.cpp/releases/download/b6097/llama-b6097-bin-win-opencl-adreno-arm64.zip",
+            url: "https://github.com/ggml-org/llama.cpp/releases/download/b6097/llama-b6097-xcframework.zip",
             checksum: "3c2689d7e4a321217b775d4310a6b823dfe4f67d68ee5566e79bf58c7eab2ab8"
         ),
         .testTarget(
