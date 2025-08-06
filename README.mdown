@@ -20,7 +20,7 @@ Swift bindings for [llama.cpp](https://github.com/ggerganov/llama.cpp) thanks to
 Use swift package manager:
 
 ```
-.package(url: "https://github.com/srgtuszy/llama-cpp-swift", branch: "main")
+.package(url: "https://github.com/Q2-Development/llama-cpp-swift", branch: "main")
 ```
 
 ## How to use
